@@ -1,1 +1,3 @@
 Realizando primeiro teste GIT com editor NOTEPADD++
+
+Segunda alteração em andamento ...
